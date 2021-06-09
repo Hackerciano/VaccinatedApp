@@ -1,0 +1,12 @@
+{
+  "name": "vaccinatedApp",
+  "displayName": "vaccinatedApp",
+  "expo": {
+    "name": "vaccinatedApp",
+    "slug": "vaccinatedApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
